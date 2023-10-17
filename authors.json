@@ -1,0 +1,61 @@
+{
+    "authors": [
+      {
+        "name": "INA STUDIO",
+        "privelage": "Owner",
+        "email": "info@ina.studio",
+        "website": "https://ina.studio",
+        "description": "Creator & Host",
+        "notes": "N/A"
+      },
+      {
+        "name": "Paradise Enterprises",
+        "privelage": "Co-Owner",
+        "email": "paradiseenterprises@gmail.com",
+        "website": "#",
+        "description": "Parent Company",
+        "notes": "N/A"
+      },
+      {
+        "name": "Fruit Paradise",
+        "privelage": "Co-Owner",
+        "email": "fruitparadisechicago@gmail.com",
+        "website": "https://fruitparadisechicago.com",
+        "description": "Company #1",
+        "notes": "N/A"
+      },
+      {
+        "name": "Cassava Chicago",
+        "privelage": "Co-Owner",
+        "email": "cassavachicago@gmail.com",
+        "website": "https://cassavachicago.com",
+        "description": "Company #2",
+        "notes": "N/A"
+      },
+      {
+        "name": "Paradise Port Cafe",
+        "privelage": "Co-Owner",
+        "email": "paradiseportcafe@gmail.com",
+        "website": "https://paradiseportcafe.com",
+        "description": "Company #3",
+        "notes": "N/A"
+      },
+      {
+        "name": "J41",
+        "privelage": "Co-Owner",
+        "email": "paradiseportcafe@gmail.com",
+        "website": "https://paradiseportcafe.com",
+        "description": "Administrator",
+        "notes": "N/A"
+      },
+      {
+        "name": "Rak Money",
+        "privelage": "Co-Owner",
+        "email": "root.rakmoney@gmail.com",
+        "website": "https://rak.money",
+        "description": "Administrator",
+        "notes": "N/A "
+      }
+    ]
+  }
+  
